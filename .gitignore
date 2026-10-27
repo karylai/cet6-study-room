@@ -1,9 +1,0 @@
-data/
-.env
-.env.*
-*.sqlite
-*.sqlite-wal
-*.sqlite-shm
-*.log
-node_modules/
-.wrangler/
