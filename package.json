@@ -1,1 +1,0 @@
-{"name":"cet6-study-room","private":true,"type":"module","scripts":{"build":"node build.cjs","deploy":"npx --yes wrangler deploy"}}
