@@ -7,7 +7,7 @@
     {
       "binding": "DB",
       "database_name": "cet6-learning",
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID",
+      "database_id": "d618ab2a-6714-4f7c-b863-007f265074d5",
       "migrations_dir": "drizzle"
     }
   ]
